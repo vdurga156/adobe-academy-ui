@@ -285,6 +285,11 @@ letter-spacing: 0px;
 color: #2E2E22;
 opacity: 1;
 }
+
+.image7:hover {
+    content: url('../images/acne_Cream\ -\ Copy\ -\ Copy.png');
+}
+
 button{
     border: 1px solid var(--oxford-blue-354e57);
 border: 1px solid #354E57;
